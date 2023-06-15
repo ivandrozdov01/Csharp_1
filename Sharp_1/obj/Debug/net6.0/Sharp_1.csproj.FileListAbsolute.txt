@@ -1,0 +1,15 @@
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\bin\Debug\net6.0\Sharp_1.exe
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\bin\Debug\net6.0\Sharp_1.deps.json
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\bin\Debug\net6.0\Sharp_1.runtimeconfig.json
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\bin\Debug\net6.0\Sharp_1.dll
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\bin\Debug\net6.0\Sharp_1.pdb
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\Sharp_1.csproj.AssemblyReference.cache
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\Sharp_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\Sharp_1.AssemblyInfoInputs.cache
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\Sharp_1.AssemblyInfo.cs
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\Sharp_1.csproj.CoreCompileInputs.cache
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\Sharp_1.dll
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\refint\Sharp_1.dll
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\Sharp_1.pdb
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\Sharp_1.genruntimeconfig.cache
+C:\Users\Ivan_Aleksandrovich\Desktop\git_dz323\Charp_001\Sharp_1\obj\Debug\net6.0\ref\Sharp_1.dll
